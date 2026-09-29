@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniStorageEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74c9e5d38129813b3a3b26ca115f88c854389c29")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniStorageEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniStorageEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

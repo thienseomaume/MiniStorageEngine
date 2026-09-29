@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{50DF8A40-5D98-4B5E-8B2D-29516EF1B0EF}|MiniStorageEngine\\MiniStorageEngine.csproj|c:\\users\\thien\\documents\\selflearningcs\\ministorageengine\\ministorageengine\\storage\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8A40-5D98-4B5E-8B2D-29516EF1B0EF}|MiniStorageEngine\\MiniStorageEngine.csproj|solutionrelative:ministorageengine\\storage\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50DF8A40-5D98-4B5E-8B2D-29516EF1B0EF}|MiniStorageEngine\\MiniStorageEngine.csproj|c:\\users\\thien\\documents\\selflearningcs\\ministorageengine\\ministorageengine\\storage\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50DF8A40-5D98-4B5E-8B2D-29516EF1B0EF}|MiniStorageEngine\\MiniStorageEngine.csproj|solutionrelative:ministorageengine\\storage\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50DF8A40-5D98-4B5E-8B2D-29516EF1B0EF}|MiniStorageEngine\\MiniStorageEngine.csproj|c:\\users\\thien\\documents\\selflearningcs\\ministorageengine\\ministorageengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50DF8A40-5D98-4B5E-8B2D-29516EF1B0EF}|MiniStorageEngine\\MiniStorageEngine.csproj|solutionrelative:ministorageengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +42,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\MiniStorageEngine\\Storage\\Record.cs",
+              "RelativeDocumentMoniker": "MiniStorageEngine\\Storage\\Record.cs",
+              "ToolTip": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\MiniStorageEngine\\Storage\\Record.cs",
+              "RelativeToolTip": "MiniStorageEngine\\Storage\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T09:38:03.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\MiniStorageEngine\\Storage\\Page.cs",
+              "RelativeDocumentMoniker": "MiniStorageEngine\\Storage\\Page.cs",
+              "ToolTip": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\MiniStorageEngine\\Storage\\Page.cs",
+              "RelativeToolTip": "MiniStorageEngine\\Storage\\Page.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T08:47:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\MiniStorageEngine\\Program.cs",
               "RelativeDocumentMoniker": "MiniStorageEngine\\Program.cs",
               "ToolTip": "C:\\Users\\thien\\Documents\\SelfLearningCs\\MiniStorageEngine\\MiniStorageEngine\\Program.cs",
               "RelativeToolTip": "MiniStorageEngine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T08:21:33.187Z",
               "EditorCaption": ""
